@@ -1,0 +1,1 @@
+const nextConfig = { images: { remotePatterns: [{ protocol: 'https', hostname: '**', }], }, swcMinify: true, }; module.exports = nextConfig;
